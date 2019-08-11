@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.ukts.uktsmobile"
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Moodle</name>
+    <name>UK Training Solutions</name>
 
     <description>
-        Moodle official app
+        UKTS official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://activeweblearning.com" email="admin@uktrainingsolutions.com">
+        UKTS Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
