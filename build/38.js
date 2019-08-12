@@ -86,7 +86,7 @@ var list_CoreSettingsListPage = /** @class */ (function () {
     CoreSettingsListPage = __decorate([
         Object(core["m" /* Component */])({
             selector: 'page-core-settings-list',
-            templateUrl: '',
+            templateUrl: 'list.html',
         }),
         __metadata("design:paramtypes", [delegate["a" /* CoreSettingsDelegate */], ionic_angular["v" /* Platform */], ionic_angular["t" /* NavParams */]])
     ], CoreSettingsListPage);
